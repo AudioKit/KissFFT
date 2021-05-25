@@ -2,8 +2,6 @@
 
 Swift Package implementation of Kiss FFT, described below.
 
-===
-
 ## A mixed-radix Fast Fourier Transform based up on the principle, "Keep It Simple, Stupid."
 
 There are many great fft libraries already around.  Kiss FFT is not trying
